@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.exe
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.deps.json
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.dll
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.pdb
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.dll
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.pdb
+C:\Web_Dev\Learning\C#\Intermediate\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.genruntimeconfig.cache

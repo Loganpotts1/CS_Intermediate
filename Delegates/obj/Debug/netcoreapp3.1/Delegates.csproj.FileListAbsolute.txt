@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Web_Dev\Learning\C#\Intermediate\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

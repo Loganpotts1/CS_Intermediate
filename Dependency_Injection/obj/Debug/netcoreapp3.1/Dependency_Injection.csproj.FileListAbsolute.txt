@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.exe
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.deps.json
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.dll
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\bin\Debug\netcoreapp3.1\Dependency_Injection.pdb
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.dll
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.pdb
+C:\Web_Dev\Learning\C#\Intermediate\Dependency_Injection\obj\Debug\netcoreapp3.1\Dependency_Injection.genruntimeconfig.cache
