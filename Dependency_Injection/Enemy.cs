@@ -6,7 +6,7 @@ namespace Dependency_Injection
 {
     class Enemy
     {
-        // Instead of Inheriting or Composing the killMove object, the class creates a Dependency for an Interface, allowing any object with that interface to be used
+        // Instead of Inheriting the killMove object, the class creates a Dependency for an Interface, allowing any object with that interface to be used
         private readonly IKillMove _killMove;
 
         public Enemy(IKillMove killMove)
